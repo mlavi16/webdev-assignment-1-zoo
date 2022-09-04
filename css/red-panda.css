@@ -1,25 +1,14 @@
 body {
     text-align: center;
-    font-family: fantasy;
-    
+    padding-top: 3%;
 }
 
-div.gallery {
-    border: 1px solid #cccccc;
-    width: 33%;
-    display: inline-block;
+.informational-text {
+    font-size: larger;
+    font-family: monospace;
 }
 
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-
-* {
-    box-sizing: border-box;
+.caption {
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
 }

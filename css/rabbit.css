@@ -1,0 +1,10 @@
+body {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.carousel {
+    border-style: solid;
+    border-radius: 1%;
+    border-width: 5px;
+}

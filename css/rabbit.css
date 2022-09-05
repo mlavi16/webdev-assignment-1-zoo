@@ -3,8 +3,17 @@ body {
     text-align: center;
 }
 
-.carousel {
+/* .carousel {
     border-style: solid;
     border-radius: 1%;
     border-width: 5px;
+} */
+
+.item img {
+    width: 100%;
+}
+
+#carrot-icon {
+    width: 2%; 
+    vertical-align:top;
 }

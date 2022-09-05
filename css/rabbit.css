@@ -7,11 +7,9 @@ body {
 .item img {
     width: 100%;
 }
-
 #myCarousel {
     width: 70%;
     margin: auto;
-    /* margin-bottom: 3%; */
 }
 
 #carrot-icon {
@@ -41,22 +39,11 @@ body {
     width: 70%;
 }
 
-#col-rabbit-classification {
-    margin-top: 11%;
-    /* border: solid; */
-}
-#col-rabbit-fun-fact {
-    margin-top: 4%;
-    /* border: solid; */
-}
-/* #col-featured-rabbit {
-    border: solid;
-} */
-
 .featured-rabbit-info {
     width: 60%;
     margin: auto;
-    /* border-style: groove;
-    border-width: 0.5px;
-    border-color: lightgray; */
+}
+
+.informational-text {
+    font-size: larger;
 }

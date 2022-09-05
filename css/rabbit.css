@@ -17,3 +17,27 @@ body {
     width: 2%; 
     vertical-align:top;
 }
+
+.classification-heading {
+    font-weight: bold;
+}
+
+.classification-text {
+    font-style: italic;
+}
+
+#rabbit-classification-col {
+    padding-top: 15%;
+}
+
+#rabbit-classification-table {
+    width: 70%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#rabbit-classification-table th {
+    font-weight: normal;
+    text-align: center;
+    padding: 5px;
+}

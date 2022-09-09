@@ -12,3 +12,8 @@ p {
 #pygmy-elephant-map {
     width: 90%;
 }
+
+#caption {
+    font-size: small;
+    margin-bottom: 0%;
+}

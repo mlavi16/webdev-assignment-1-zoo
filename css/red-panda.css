@@ -4,6 +4,10 @@ body {
     padding-bottom: 20px;
 }
 
+.navbar {
+    font-family: Gill Sans, sans-serif;
+}
+
 .informational-text {
     font-size: larger;
     font-family: monospace;
@@ -14,6 +18,15 @@ body {
     font-size: medium;
 }
 
-.navbar {
-    font-family: Gill Sans, sans-serif;
+.caption a {
+    font-size: small;
+}
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.red-panda-icon {
+    width: 10%;
 }

@@ -16,7 +16,7 @@ body {
     margin: auto;
 }
 
-#carrot-icon {
+.carrot-icon {
     width: 2%; 
     vertical-align:top;
 }
@@ -27,19 +27,19 @@ body {
 .classification-text {
     font-style: italic;
 }
-#rabbit-classification-table {
+.rabbit-classification-table {
     width: 70%;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     margin: auto;
 }
-#rabbit-classification-table th {
+.rabbit-classification-table th {
     font-weight: normal;
     text-align: center;
     padding: 5px;
 }
 
-#rabbits-booping-noses-img {
+.rabbits-booping-noses-img {
     width: 70%;
 }
 

@@ -9,11 +9,11 @@ p {
     font-size: large;
 }
 
-#pygmy-elephant-map {
+.pygmy-elephant-map {
     width: 90%;
 }
 
-#caption {
+.caption {
     font-size: small;
     margin-bottom: 0%;
 }

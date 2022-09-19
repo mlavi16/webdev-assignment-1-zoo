@@ -3,3 +3,7 @@ body {
     padding-top: 3%;
     padding-bottom: 2%;
 }
+
+#left-crocodile {
+    transform: rotateY(180deg);
+}

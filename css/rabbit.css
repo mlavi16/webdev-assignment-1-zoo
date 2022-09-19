@@ -1,7 +1,11 @@
 body {
-    padding-top: 3%;
+    padding-top: 60px;
     text-align: center;
-    padding-bottom: 3%;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    font-family: Gill Sans, sans-serif;
 }
 
 .item img {

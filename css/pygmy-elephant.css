@@ -1,7 +1,7 @@
 body {
     text-align: center;
-    padding-top: 3%;
-    padding-bottom: 2%;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 p {
@@ -16,4 +16,8 @@ p {
 #caption {
     font-size: small;
     margin-bottom: 0%;
+}
+
+.navbar {
+    font-family: Gill Sans, sans-serif;
 }

@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    padding-top: 3%;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 .informational-text {
@@ -11,4 +12,8 @@ body {
 .caption {
     font-family:'Times New Roman', Times, serif;
     font-size: medium;
+}
+
+.navbar {
+    font-family: Gill Sans, sans-serif;
 }

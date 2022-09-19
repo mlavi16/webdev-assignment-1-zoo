@@ -1,7 +1,7 @@
 body {
     text-align: center;
-    padding-top: 3%;
-    padding-bottom: 2%;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 #left-crocodile {
@@ -11,4 +11,8 @@ body {
 .informational-text {
     font-size: larger ;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    font-family: Gill Sans, sans-serif;
 }
